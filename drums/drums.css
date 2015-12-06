@@ -1,0 +1,26 @@
+#drum1{
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+#drum2{
+  position: absolute;
+  top: 220px;
+  left: 440px;
+}
+
+#drum3{
+  position: absolute;
+  top: 250px;
+  left: 120px;
+}
+#drum4{
+  position: absolute;
+  top: 420px;
+  left: 200px;
+}
+#drum5{
+  position: absolute;
+  top: 250px;
+  left: 380px;
+}

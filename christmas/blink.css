@@ -1,0 +1,26 @@
+body {
+    background-color: red;
+}
+
+#text{
+  position: absolute;
+  left: 300px;
+  font: impact;
+  font-size: 100;
+  top: 250px;
+}
+#button1{
+  position: absolute;
+  top: 400px;
+  left: 1000px;
+}
+#button2{
+  position: absolute;
+  left: 400;
+  top: 400;
+}
+#button3{
+  position: absolute;
+    top: 400;
+    left: 710
+}

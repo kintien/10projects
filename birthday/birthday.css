@@ -1,0 +1,14 @@
+#body{
+  background-color: royalblue
+}
+
+#cake{
+  position: absolute;
+  left: 300px;
+  top: 0px;
+}
+#button{
+  position: absolute;
+  left: 650px;
+  top: 520px;
+}

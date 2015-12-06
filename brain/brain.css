@@ -1,0 +1,16 @@
+body {
+    background-image: url("images/brain.jpg");
+}
+#button{
+  position: absolute;
+  top: 400px;
+  left: 650px;
+  color: gold
+}
+#text{
+  position: absolute;
+  top: 300px;
+  left: 40px;
+  font-size: 60;
+  color: red
+}
